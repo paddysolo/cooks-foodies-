@@ -1,3 +1,17 @@
+ 
+
+
+
+    
+
+   
+
+
+
+
+
+
+
  body {
  		background-image: linear-gradient(45deg,#2b3990,#f15a29);
 	    background-repeat: no-repeat;
@@ -15,12 +29,15 @@
  	background-size:cover;
  }
  #heroImg h1{
- 	font-size: 5rem;
+ 	font-size: 4rem;
  	font-weight: bold;
+ 	letter-spacing: -2px;
+ 	font-family: 'Emilys Candy', cursive;
  }
  #heroImg p{
- 	font-size: 2rem;
- 	font-weight:;
+ 	font-size: 1.8rem;
+ 	
+ 	 font-family: 'Open Sans', sans-serif;
  }
  #offset{
  	background-color: #fff;
@@ -48,10 +65,12 @@
 #mainContent h2{
 	font-weight: bold;
 	font-size: 16px;
+	font-family: 'Emilys Candy', cursive;
 }
 
 #mainContent p{
 	font-size: 13px;
+	 font-family: 'Open Sans', sans-serif;
 }
 footer{
 	/*background-color: #000;*/
