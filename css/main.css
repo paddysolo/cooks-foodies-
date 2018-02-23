@@ -16,6 +16,8 @@
  	background-image: url('../img/3.jpg');
  	background-repeat: no-repeat;
  	background-size:cover;
+	padding-top: 7rem;
+ 	padding-bottom: 12rem;
  }
  #heroImg h1{
  	font-size: 4rem;
